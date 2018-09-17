@@ -9,3 +9,5 @@ https://github.com/Andyliwr/mbook/blob/develop/weixin/pages/book_detail/book_det
 
 utc16 to gbk
 http://www.dailichun.com/2017/06/03/utf8ToUtf16ToGbk.html
+tesseract
+http://tesseract.projectnaptha.com/
